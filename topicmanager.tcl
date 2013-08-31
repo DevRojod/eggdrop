@@ -1,4 +1,3 @@
-
     #                       
     #       +------------------------------------------------------+
     #       | © Christian 'chris' Hopf <mail@dev.christianhopf.de> |
